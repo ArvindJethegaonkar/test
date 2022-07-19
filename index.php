@@ -6,8 +6,8 @@
 <body style="background-color: #13C1C1">
 
 
-<img src="_DP_9566.jpg" alt="Family">
 
+<img src="_DP_9566.jpg" alt="Trulli" width="500" height="333">
 
         <div class="ui container">
                 <div class="ui segment" style="max-width: 800px; margin: 0 auto;">
